@@ -161,3 +161,8 @@ cython_debug/
 
 .ruff_cache/
 *.zip
+.codex
+
+data/
+!data/.gitkeep
+cs336_basics/fixtures/
